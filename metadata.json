@@ -1,0 +1,607 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-02T10:50:11Z",
+  "count": 60,
+  "wallpapers": [
+    {
+      "id": "black-hole",
+      "title": "Black Hole",
+      "category": "Space",
+      "resolution": "3840x2160",
+      "duration": 62.5,
+      "fileSizeBytes": 26925817,
+      "videoPath": "wallpapers/black-hole.mov",
+      "thumbnailPath": "thumbnails/black-hole.jpg"
+    },
+    {
+      "id": "blade-runner-2049",
+      "title": "Blade Runner 2049",
+      "category": "Movies",
+      "resolution": "3840x2160",
+      "duration": 10.54,
+      "fileSizeBytes": 22667544,
+      "videoPath": "wallpapers/blade-runner-2049.mov",
+      "thumbnailPath": "thumbnails/blade-runner-2049.jpg"
+    },
+    {
+      "id": "bongo-cat",
+      "title": "Bongo Cat",
+      "category": "Nature",
+      "resolution": "3840x2160",
+      "duration": 0.3,
+      "fileSizeBytes": 18013,
+      "videoPath": "wallpapers/bongo-cat.mov",
+      "thumbnailPath": "thumbnails/bongo-cat.jpg"
+    },
+    {
+      "id": "bunch-of-cats",
+      "title": "Bunch of Cats",
+      "category": "Nature",
+      "resolution": "3840x2160",
+      "duration": 21.6,
+      "fileSizeBytes": 83540472,
+      "videoPath": "wallpapers/bunch-of-cats.mov",
+      "thumbnailPath": "thumbnails/bunch-of-cats.jpg"
+    },
+    {
+      "id": "cameras",
+      "title": "Cameras",
+      "category": "Atmosphere",
+      "resolution": "1920x1080",
+      "duration": 6.0,
+      "fileSizeBytes": 576654,
+      "videoPath": "wallpapers/cameras.mov",
+      "thumbnailPath": "thumbnails/cameras.jpg"
+    },
+    {
+      "id": "cat-in-water",
+      "title": "Cat in Water",
+      "category": "Nature",
+      "resolution": "3840x2160",
+      "duration": 20.35,
+      "fileSizeBytes": 79435117,
+      "videoPath": "wallpapers/cat-in-water.mov",
+      "thumbnailPath": "thumbnails/cat-in-water.jpg"
+    },
+    {
+      "id": "cherry-blossom-house-minecraft",
+      "title": "Cherry Blossom House Minecraft",
+      "category": "Games",
+      "resolution": "3840x2160",
+      "duration": 19.93,
+      "fileSizeBytes": 50054845,
+      "videoPath": "wallpapers/cherry-blossom-house-minecraft.mov",
+      "thumbnailPath": "thumbnails/cherry-blossom-house-minecraft.jpg"
+    },
+    {
+      "id": "cherry-blossom",
+      "title": "Cherry Blossom",
+      "category": "Nature",
+      "resolution": "3840x2160",
+      "duration": 12.7,
+      "fileSizeBytes": 31485467,
+      "videoPath": "wallpapers/cherry-blossom.mov",
+      "thumbnailPath": "thumbnails/cherry-blossom.jpg"
+    },
+    {
+      "id": "coffee-shop",
+      "title": "Coffee Shop",
+      "category": "Atmosphere",
+      "resolution": "3840x2160",
+      "duration": 11.93,
+      "fileSizeBytes": 9453575,
+      "videoPath": "wallpapers/coffee-shop.mov",
+      "thumbnailPath": "thumbnails/coffee-shop.jpg"
+    },
+    {
+      "id": "cozy-rain",
+      "title": "Cozy Rain",
+      "category": "Atmosphere",
+      "resolution": "3840x2160",
+      "duration": 9.79,
+      "fileSizeBytes": 21920276,
+      "videoPath": "wallpapers/cozy-rain.mov",
+      "thumbnailPath": "thumbnails/cozy-rain.jpg"
+    },
+    {
+      "id": "dark-forest",
+      "title": "Dark Forest",
+      "category": "Nature",
+      "resolution": "3840x2160",
+      "duration": 30.0,
+      "fileSizeBytes": 62048215,
+      "videoPath": "wallpapers/dark-forest.mov",
+      "thumbnailPath": "thumbnails/dark-forest.jpg"
+    },
+    {
+      "id": "darth-vader",
+      "title": "Darth Vader",
+      "category": "Movies",
+      "resolution": "3840x2160",
+      "duration": 12.13,
+      "fileSizeBytes": 17428461,
+      "videoPath": "wallpapers/darth-vader.mov",
+      "thumbnailPath": "thumbnails/darth-vader.jpg"
+    },
+    {
+      "id": "dead-tree-limbo",
+      "title": "Dead Tree Limbo",
+      "category": "Nature",
+      "resolution": "1920x1080",
+      "duration": 15.03,
+      "fileSizeBytes": 26549353,
+      "videoPath": "wallpapers/dead-tree-limbo.mov",
+      "thumbnailPath": "thumbnails/dead-tree-limbo.jpg"
+    },
+    {
+      "id": "deadpool",
+      "title": "Deadpool",
+      "category": "Movies",
+      "resolution": "3840x2160",
+      "duration": 5.2,
+      "fileSizeBytes": 1294924,
+      "videoPath": "wallpapers/deadpool.mov",
+      "thumbnailPath": "thumbnails/deadpool.jpg"
+    },
+    {
+      "id": "denji",
+      "title": "Denji",
+      "category": "Anime",
+      "resolution": "3840x2160",
+      "duration": 42.89,
+      "fileSizeBytes": 86204550,
+      "videoPath": "wallpapers/denji.mov",
+      "thumbnailPath": "thumbnails/denji.jpg"
+    },
+    {
+      "id": "dune",
+      "title": "Dune",
+      "category": "Atmosphere",
+      "resolution": "3840x2160",
+      "duration": 9.24,
+      "fileSizeBytes": 14752026,
+      "videoPath": "wallpapers/dune.mov",
+      "thumbnailPath": "thumbnails/dune.jpg"
+    },
+    {
+      "id": "f1",
+      "title": "F1",
+      "category": "Games",
+      "resolution": "3840x2160",
+      "duration": 18.59,
+      "fileSizeBytes": 38922153,
+      "videoPath": "wallpapers/f1.mov",
+      "thumbnailPath": "thumbnails/f1.jpg"
+    },
+    {
+      "id": "fireflies-field",
+      "title": "Fireflies Field",
+      "category": "Nature",
+      "resolution": "3840x2160",
+      "duration": 27.35,
+      "fileSizeBytes": 105989708,
+      "videoPath": "wallpapers/fireflies-field.mov",
+      "thumbnailPath": "thumbnails/fireflies-field.jpg"
+    },
+    {
+      "id": "fishing-frogs",
+      "title": "Fishing Frogs",
+      "category": "Nature",
+      "resolution": "3840x2160",
+      "duration": 60.0,
+      "fileSizeBytes": 145108810,
+      "videoPath": "wallpapers/fishing-frogs.mov",
+      "thumbnailPath": "thumbnails/fishing-frogs.jpg"
+    },
+    {
+      "id": "floating-in-space",
+      "title": "Floating in space",
+      "category": "Space",
+      "resolution": "2560x1440",
+      "duration": 30.0,
+      "fileSizeBytes": 50326537,
+      "videoPath": "wallpapers/floating-in-space.mov",
+      "thumbnailPath": "thumbnails/floating-in-space.jpg"
+    },
+    {
+      "id": "frieren-in-river",
+      "title": "Frieren in River",
+      "category": "Anime",
+      "resolution": "3840x2160",
+      "duration": 25.97,
+      "fileSizeBytes": 24826708,
+      "videoPath": "wallpapers/frieren-in-river.mov",
+      "thumbnailPath": "thumbnails/frieren-in-river.jpg"
+    },
+    {
+      "id": "furina",
+      "title": "Furina",
+      "category": "Games",
+      "resolution": "3840x2160",
+      "duration": 20.57,
+      "fileSizeBytes": 18853415,
+      "videoPath": "wallpapers/furina.mov",
+      "thumbnailPath": "thumbnails/furina.jpg"
+    },
+    {
+      "id": "gliding-frog",
+      "title": "Gliding Frog",
+      "category": "Nature",
+      "resolution": "3840x2160",
+      "duration": 71.25,
+      "fileSizeBytes": 151095172,
+      "videoPath": "wallpapers/gliding-frog.mov",
+      "thumbnailPath": "thumbnails/gliding-frog.jpg"
+    },
+    {
+      "id": "grass-portal",
+      "title": "Grass Portal",
+      "category": "Nature",
+      "resolution": "3840x2160",
+      "duration": 26.73,
+      "fileSizeBytes": 67350906,
+      "videoPath": "wallpapers/grass-portal.mov",
+      "thumbnailPath": "thumbnails/grass-portal.jpg"
+    },
+    {
+      "id": "hollow-knight",
+      "title": "Hollow Knight",
+      "category": "Games",
+      "resolution": "3840x2160",
+      "duration": 25.12,
+      "fileSizeBytes": 86094045,
+      "videoPath": "wallpapers/hollow-knight.mov",
+      "thumbnailPath": "thumbnails/hollow-knight.jpg"
+    },
+    {
+      "id": "in-the-stars",
+      "title": "In the stars",
+      "category": "Space",
+      "resolution": "3840x2160",
+      "duration": 17.87,
+      "fileSizeBytes": 71312041,
+      "videoPath": "wallpapers/in-the-stars.mov",
+      "thumbnailPath": "thumbnails/in-the-stars.jpg"
+    },
+    {
+      "id": "inazuma",
+      "title": "Inazuma",
+      "category": "Games",
+      "resolution": "3840x2160",
+      "duration": 20.67,
+      "fileSizeBytes": 36666677,
+      "videoPath": "wallpapers/inazuma.mov",
+      "thumbnailPath": "thumbnails/inazuma.jpg"
+    },
+    {
+      "id": "jake-in-rain",
+      "title": "Jake in Rain",
+      "category": "Anime",
+      "resolution": "1920x1080",
+      "duration": 15.17,
+      "fileSizeBytes": 26701414,
+      "videoPath": "wallpapers/jake-in-rain.mov",
+      "thumbnailPath": "thumbnails/jake-in-rain.jpg"
+    },
+    {
+      "id": "japanese-train",
+      "title": "Japanese Train",
+      "category": "Atmosphere",
+      "resolution": "3840x2160",
+      "duration": 13.03,
+      "fileSizeBytes": 50297846,
+      "videoPath": "wallpapers/japanese-train.mov",
+      "thumbnailPath": "thumbnails/japanese-train.jpg"
+    },
+    {
+      "id": "kiyomizu-dera-temple",
+      "title": "Kiyomizu Dera Temple",
+      "category": "Atmosphere",
+      "resolution": "3840x2160",
+      "duration": 25.12,
+      "fileSizeBytes": 94005341,
+      "videoPath": "wallpapers/kiyomizu-dera-temple.mov",
+      "thumbnailPath": "thumbnails/kiyomizu-dera-temple.jpg"
+    },
+    {
+      "id": "koi-pond",
+      "title": "Koi Pond",
+      "category": "Nature",
+      "resolution": "1920x1080",
+      "duration": 24.23,
+      "fileSizeBytes": 34331832,
+      "videoPath": "wallpapers/koi-pond.mov",
+      "thumbnailPath": "thumbnails/koi-pond.jpg"
+    },
+    {
+      "id": "lazy-toads",
+      "title": "Lazy Toads",
+      "category": "Nature",
+      "resolution": "3840x2160",
+      "duration": 22.0,
+      "fileSizeBytes": 43723870,
+      "videoPath": "wallpapers/lazy-toads.mov",
+      "thumbnailPath": "thumbnails/lazy-toads.jpg"
+    },
+    {
+      "id": "lilac-field-minecraft",
+      "title": "Lilac Field Minecraft",
+      "category": "Games",
+      "resolution": "3840x2160",
+      "duration": 15.17,
+      "fileSizeBytes": 55337786,
+      "videoPath": "wallpapers/lilac-field-minecraft.mov",
+      "thumbnailPath": "thumbnails/lilac-field-minecraft.jpg"
+    },
+    {
+      "id": "liyue",
+      "title": "Liyue",
+      "category": "Games",
+      "resolution": "3840x2160",
+      "duration": 25.28,
+      "fileSizeBytes": 89743686,
+      "videoPath": "wallpapers/liyue.mov",
+      "thumbnailPath": "thumbnails/liyue.jpg"
+    },
+    {
+      "id": "luffy-in-space",
+      "title": "Luffy in space",
+      "category": "Space",
+      "resolution": "3840x2160",
+      "duration": 11.28,
+      "fileSizeBytes": 21114181,
+      "videoPath": "wallpapers/luffy-in-space.mov",
+      "thumbnailPath": "thumbnails/luffy-in-space.jpg"
+    },
+    {
+      "id": "mahoraga",
+      "title": "Mahoraga",
+      "category": "Anime",
+      "resolution": "3840x2160",
+      "duration": 27.55,
+      "fileSizeBytes": 103731769,
+      "videoPath": "wallpapers/mahoraga.mov",
+      "thumbnailPath": "thumbnails/mahoraga.jpg"
+    },
+    {
+      "id": "man-in-space",
+      "title": "Man in space",
+      "category": "Space",
+      "resolution": "3840x2160",
+      "duration": 22.95,
+      "fileSizeBytes": 54327210,
+      "videoPath": "wallpapers/man-in-space.mov",
+      "thumbnailPath": "thumbnails/man-in-space.jpg"
+    },
+    {
+      "id": "mondstadt",
+      "title": "Mondstadt",
+      "category": "Games",
+      "resolution": "3840x2160",
+      "duration": 25.03,
+      "fileSizeBytes": 85892207,
+      "videoPath": "wallpapers/mondstadt.mov",
+      "thumbnailPath": "thumbnails/mondstadt.jpg"
+    },
+    {
+      "id": "monochrome-vibes",
+      "title": "Monochrome Vibes",
+      "category": "Atmosphere",
+      "resolution": "3840x2160",
+      "duration": 21.0,
+      "fileSizeBytes": 47507085,
+      "videoPath": "wallpapers/monochrome-vibes.mov",
+      "thumbnailPath": "thumbnails/monochrome-vibes.jpg"
+    },
+    {
+      "id": "mount-fuji",
+      "title": "Mount Fuji",
+      "category": "Nature",
+      "resolution": "3840x2160",
+      "duration": 15.3,
+      "fileSizeBytes": 39395480,
+      "videoPath": "wallpapers/mount-fuji.mov",
+      "thumbnailPath": "thumbnails/mount-fuji.jpg"
+    },
+    {
+      "id": "ocean",
+      "title": "Ocean",
+      "category": "Nature",
+      "resolution": "3840x2160",
+      "duration": 18.75,
+      "fileSizeBytes": 41143614,
+      "videoPath": "wallpapers/ocean.mov",
+      "thumbnailPath": "thumbnails/ocean.jpg"
+    },
+    {
+      "id": "oni-gameboy",
+      "title": "Oni Gameboy",
+      "category": "Games",
+      "resolution": "1920x1080",
+      "duration": 19.8,
+      "fileSizeBytes": 28378966,
+      "videoPath": "wallpapers/oni-gameboy.mov",
+      "thumbnailPath": "thumbnails/oni-gameboy.jpg"
+    },
+    {
+      "id": "ps4",
+      "title": "PS4",
+      "category": "Games",
+      "resolution": "2560x1440",
+      "duration": 28.33,
+      "fileSizeBytes": 61307217,
+      "videoPath": "wallpapers/ps4.mov",
+      "thumbnailPath": "thumbnails/ps4.jpg"
+    },
+    {
+      "id": "pigeon-in-the-pool",
+      "title": "Pigeon in the pool",
+      "category": "Nature",
+      "resolution": "1920x1080",
+      "duration": 21.07,
+      "fileSizeBytes": 36447223,
+      "videoPath": "wallpapers/pigeon-in-the-pool.mov",
+      "thumbnailPath": "thumbnails/pigeon-in-the-pool.jpg"
+    },
+    {
+      "id": "pixel-waterfall",
+      "title": "Pixel Waterfall",
+      "category": "Games",
+      "resolution": "2560x1440",
+      "duration": 10.42,
+      "fileSizeBytes": 28653792,
+      "videoPath": "wallpapers/pixel-waterfall.mov",
+      "thumbnailPath": "thumbnails/pixel-waterfall.jpg"
+    },
+    {
+      "id": "playstation-crt",
+      "title": "Playstation CRT",
+      "category": "Games",
+      "resolution": "3840x2160",
+      "duration": 15.64,
+      "fileSizeBytes": 39147528,
+      "videoPath": "wallpapers/playstation-crt.mov",
+      "thumbnailPath": "thumbnails/playstation-crt.jpg"
+    },
+    {
+      "id": "retro-vibes",
+      "title": "Retro Vibes",
+      "category": "Atmosphere",
+      "resolution": "3840x2160",
+      "duration": 9.5,
+      "fileSizeBytes": 24273183,
+      "videoPath": "wallpapers/retro-vibes.mov",
+      "thumbnailPath": "thumbnails/retro-vibes.jpg"
+    },
+    {
+      "id": "sabrina-kiss",
+      "title": "Sabrina Kiss",
+      "category": "Anime",
+      "resolution": "3840x2160",
+      "duration": 23.15,
+      "fileSizeBytes": 55989346,
+      "videoPath": "wallpapers/sabrina-kiss.mov",
+      "thumbnailPath": "thumbnails/sabrina-kiss.jpg"
+    },
+    {
+      "id": "sakura-street",
+      "title": "Sakura Street",
+      "category": "Atmosphere",
+      "resolution": "1920x1080",
+      "duration": 10.25,
+      "fileSizeBytes": 13717671,
+      "videoPath": "wallpapers/sakura-street.mov",
+      "thumbnailPath": "thumbnails/sakura-street.jpg"
+    },
+    {
+      "id": "seaside-cafe",
+      "title": "Seaside Cafe",
+      "category": "Atmosphere",
+      "resolution": "1920x1080",
+      "duration": 15.0,
+      "fileSizeBytes": 16940549,
+      "videoPath": "wallpapers/seaside-cafe.mov",
+      "thumbnailPath": "thumbnails/seaside-cafe.jpg"
+    },
+    {
+      "id": "serene-beach",
+      "title": "Serene Beach",
+      "category": "Nature",
+      "resolution": "3840x2160",
+      "duration": 27.13,
+      "fileSizeBytes": 67781816,
+      "videoPath": "wallpapers/serene-beach.mov",
+      "thumbnailPath": "thumbnails/serene-beach.jpg"
+    },
+    {
+      "id": "silver-surfer",
+      "title": "Silver Surfer",
+      "category": "Movies",
+      "resolution": "3840x2160",
+      "duration": 17.17,
+      "fileSizeBytes": 18169897,
+      "videoPath": "wallpapers/silver-surfer.mov",
+      "thumbnailPath": "thumbnails/silver-surfer.jpg"
+    },
+    {
+      "id": "silver-surfer-in-space",
+      "title": "Silver surfer in space",
+      "category": "Space",
+      "resolution": "3840x2160",
+      "duration": 30.0,
+      "fileSizeBytes": 19100447,
+      "videoPath": "wallpapers/silver-surfer-in-space.mov",
+      "thumbnailPath": "thumbnails/silver-surfer-in-space.jpg"
+    },
+    {
+      "id": "sky-whale",
+      "title": "Sky Whale",
+      "category": "Nature",
+      "resolution": "3840x2160",
+      "duration": 10.93,
+      "fileSizeBytes": 22144763,
+      "videoPath": "wallpapers/sky-whale.mov",
+      "thumbnailPath": "thumbnails/sky-whale.jpg"
+    },
+    {
+      "id": "spiderman-japanese-blossoms",
+      "title": "Spiderman Japanese Blossoms",
+      "category": "Anime",
+      "resolution": "3840x2160",
+      "duration": 12.6,
+      "fileSizeBytes": 45104677,
+      "videoPath": "wallpapers/spiderman-japanese-blossoms.mov",
+      "thumbnailPath": "thumbnails/spiderman-japanese-blossoms.jpg"
+    },
+    {
+      "id": "the-batman",
+      "title": "The Batman",
+      "category": "Movies",
+      "resolution": "3840x2160",
+      "duration": 23.93,
+      "fileSizeBytes": 92565923,
+      "videoPath": "wallpapers/the-batman.mov",
+      "thumbnailPath": "thumbnails/the-batman.jpg"
+    },
+    {
+      "id": "tiny-glade",
+      "title": "Tiny Glade",
+      "category": "Explore",
+      "resolution": "2560x1440",
+      "duration": 15.0,
+      "fileSizeBytes": 39765156,
+      "videoPath": "wallpapers/tiny-glade.mov",
+      "thumbnailPath": "thumbnails/tiny-glade.jpg"
+    },
+    {
+      "id": "totoro-sunset",
+      "title": "Totoro Sunset",
+      "category": "Anime",
+      "resolution": "3840x2160",
+      "duration": 25.17,
+      "fileSizeBytes": 53932754,
+      "videoPath": "wallpapers/totoro-sunset.mov",
+      "thumbnailPath": "thumbnails/totoro-sunset.jpg"
+    },
+    {
+      "id": "totoro-on-tree",
+      "title": "Totoro on Tree",
+      "category": "Anime",
+      "resolution": "3840x2160",
+      "duration": 15.03,
+      "fileSizeBytes": 24807318,
+      "videoPath": "wallpapers/totoro-on-tree.mov",
+      "thumbnailPath": "thumbnails/totoro-on-tree.jpg"
+    },
+    {
+      "id": "under-hydrangea",
+      "title": "Under Hydrangea",
+      "category": "Nature",
+      "resolution": "3840x2160",
+      "duration": 10.0,
+      "fileSizeBytes": 39219669,
+      "videoPath": "wallpapers/under-hydrangea.mov",
+      "thumbnailPath": "thumbnails/under-hydrangea.jpg"
+    }
+  ]
+}
